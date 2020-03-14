@@ -1,5 +1,9 @@
 ## TEC-1-MJ
 
+## Acknowledgement
+Mark Jelic
+
+
 ## Specification
 * RC2014 SLOT
 * DAT + LCD
